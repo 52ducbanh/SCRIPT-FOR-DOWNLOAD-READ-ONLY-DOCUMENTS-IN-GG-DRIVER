@@ -2,7 +2,7 @@
 
 ## 1. DESCRIPTION
 
-Some people face the problems which can't download their desirable documents in google driver because its authors restricted downloadable permission. This script will let you download it easily :>
+Some people face the problem of not being able to download documents on Google Drive because the authors have restricted downloadable permissions. This script will let you download it easily :>
 
 ## 2. GETTING STARTED
 

@@ -38,7 +38,6 @@
       con.scale(TOTAL_SCALE, TOTAL_SCALE);
       con.drawImage(img, 0, 0, img.naturalWidth, img.naturalHeight);
 
-
       let imgData = canvasElement.toDataURL("image/jpeg", 0.95);
 
       let orientation = img.naturalWidth > img.naturalHeight ? "l" : "p";
